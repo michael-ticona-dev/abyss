@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: tierra
+  m_Name: arbol_grande_01
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: 1360123705586823289, guid: 7893591a57dfae1ff87853ac4b016305, type: 3}
+  m_Sprite: {fileID: 6502129103713456404, guid: 8d1a20c2f370610e788b42e1a2740a89, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
